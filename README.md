@@ -190,7 +190,7 @@ cd "c:\Users\Simran Annigeri\Desktop\sales forecasting\backend"
 
 #### Terminal 2 — Frontend (React Vite)
 ```powershell
-cd "c:\Users\Simran Annigeri\Desktop\sales forecasting\frontend"
+cd "c:\Users\Simran Annigeri\Desktop\sales forecasting\fronten
 npm run dev
 ```
 *Frontend runs on `http://localhost:5173`.*
@@ -225,3 +225,11 @@ This project strictly satisfies all requirements for a **Bachelor of Engineering
 3. **Statistical Depth**: Stationarity testing via Augmented Dickey-Fuller and seasonal decomposition via Statsmodels.
 4. **Ensemble & Autoregressive Breadth**: Direct empirical comparison between machine learning (Random Forest, Ridge Regression) and time series statistics (ARIMA, Moving Average).
 5. **Business Decision Value**: Bridges predictive numbers with real-world inventory recommendations and formatted deliverables.
+
+
+## live project deployment
+Live Website - https://vercel.com/simran-s-projects80/sales-forecasting-frontend
+
+
+
+
